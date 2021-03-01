@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.26.0](https://www.github.com/googleapis/java-speech/compare/v1.25.1...v1.26.0) (2021-03-01)
+
+
+### Features
+
+* **generator:** update protoc to v3.15.3 ([#453](https://www.github.com/googleapis/java-speech/issues/453)) ([e624289](https://www.github.com/googleapis/java-speech/commit/e624289f70c30a3f1a8e3e921dcc7d0a51ca83c6))
+
 ### [1.25.1](https://www.github.com/googleapis/java-speech/compare/v1.25.0...v1.25.1) (2021-02-25)
 
 
